@@ -1,0 +1,10 @@
+
+GET http://localhost:5001/message-app-2c0dd/us-central1/scrape
+####
+POST http://localhost:5001/message-app-2c0dd/us-central1/scrape
+Content-Type: application/json
+
+{
+   "query":"Yumurta"
+}
+
